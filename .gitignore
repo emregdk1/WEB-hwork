@@ -15,6 +15,7 @@ log/
 out/
 
 # Cucumber projesi için eklenen özel girdiler
+.idea
 /target/
 /web_driver
 /logs/
